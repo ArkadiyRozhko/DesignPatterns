@@ -1,4 +1,4 @@
-package com.ark;
+package com.ark.strategy;
 
 public class MuteQuack implements QuackBehavior{
     @Override

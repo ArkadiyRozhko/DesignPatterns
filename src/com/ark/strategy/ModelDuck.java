@@ -1,4 +1,4 @@
-package com.ark;
+package com.ark.strategy;
 
 public class ModelDuck extends Duck{
     public ModelDuck() {

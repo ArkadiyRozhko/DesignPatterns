@@ -1,4 +1,4 @@
-package com.ark;
+package com.ark.strategy;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

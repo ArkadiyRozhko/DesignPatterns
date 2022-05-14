@@ -1,4 +1,4 @@
-package com.ark;
+package com.ark.strategy;
 
 public class Squeak implements QuackBehavior{
     @Override
